@@ -1,12 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Alireza's Pages
 
-You can use the [editor on GitHub](https://github.com/Alireza-Darzian-Rostami/Alireza-Darzian-Rostami.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Personal Information
+------------------------------------
+### Alireza Darzian Rostami
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.- Name:                  Alireza Darzian Rostami.
 
-### Markdown
+2. -Date of birth:            April 15, 1995
+3.- Email address:           alireza.darzian.rostami@gmail.com
+                          adarzianrostam1731@sdsu.edu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+LinkedIn: https://www.linkedin.com/in/alireza-darzian-rostami-1717015a/
+
+
+
+### Interests and Extra Curriculum Activities
+------------------------------------------------
+Hiking
+Video Games
+Music
+Movie
+
+
 
 ```markdown
 Syntax highlighted code block
