@@ -17,9 +17,9 @@
     
 ### Interests and Extra Curriculum Activities
 ------------------------------------------------
-Hiking
-Video Games
-Music
-Movie
+* Hiking
+* Video Games
+* Music
+* Movie
 
 
