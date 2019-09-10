@@ -6,8 +6,7 @@
 
 * Date of birth:            April 15, 1995
 * Email address:           alireza.darzian.rostami@gmail.com
-* LinkedIn: https://www.linkedin.com/in/alireza-darzian-rostami-1717015a/
-
+* [LinkedIn]( https://www.linkedin.com/in/alireza-darzian-rostami-1717015a/)
 ### Education
 --------------------------------------
 * Master of Science in Transportation Engineering ( In progress)
@@ -22,4 +21,4 @@
 * Music
 * Movie
 
-
+[Alireza page](https://alireza-darzian-rostami.github.io/)
